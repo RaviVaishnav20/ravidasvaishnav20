@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Lead Data Scientist",
+        "company": "Synechron Technologies Pvt. Ltd.",
+        "location": "Bengaluru, India",
+        "startDate": "Oct 2023",
+        "endDate": "Present",
+        "responsibilities": [
+            "Spearheaded the implementation and optimization of various Large Language Models (LLMs) including OpenAI, Azure OpenAI, LLaMA, and Claude, driving innovation in AI-powered solutions.",
+            "Leveraged extensive knowledge of AWS and GCP services to architect and deploy scalable, cloud-based AI systems, integrating software development best practices and systems engineering principles.",
+            "Pioneered the adoption of cutting-edge AI technologies and tools, such as Prompt flow, to significantly enhance user interaction and experience across multiple projects.",
+            "Demonstrated thought leadership by consistently staying abreast of and implementing the latest advancements in AI technologies, frameworks, and platforms.",
+            "Led the development of high-impact GENAI projects, including ChequeTech and Syne Agentic AI, focusing on advanced applications for Data Engineering, Data Analysis, and Big Data processing.",
+            "Mentored and guided cross-functional teams in the implementation of AI solutions, fostering a culture of innovation and technical excellence."
+        ]
+    },
+    {
+        "title": "Senior Data Science Engineer",
+        "company": "Ivy Mobility Solutions Ltd",
+        "location": "Bengaluru, India",
+        "startDate": "Jul 2021",
+        "endDate": "Oct 2023",
+        "responsibilities": [
+            "Worked on Retail Execution solution works with an intelligent Route-to-Market platform to automate business processes and improve field rep productivity to drive more sales.",
+            "Built solutions for various use cases including reducing out-of-stock, managing accounts, planning visits, processing orders, ensuring compliance, tracking assets, achieving Planogram adherence, conducting store audits and surveys, managing budgets, costs, credit limits, and expenses, managing contracts, e-sign documents, and tracking expiry.",
+            "Utilized technologies for end-to-end deployment including Python, Pytorch, Tensorflow, OpenCV, NLP, GPT, VAE, GANs, various transformer-based models, SQL, GitHub, Flask, Gunicorn and Nginx, AWS EC2, AWS S3 bucket, AWS Sagemaker, OCR, ML-Flow, Docker, Container, GradCam.",
+            "Designed, implemented, and evaluated new models and rapid software prototypes to solve problems in machine learning and systems engineering.",
+            "Collaborated with multi-disciplinary product development teams to identify performance improvement opportunities and integrate trained models.",
+            "Composed production-grade code to convert machine learning models into services and pipelines to be consumed at a web-scale.",
+            "Worked with stakeholders to develop quarterly roadmaps based on impact, effort, and test coordination.",
+            "Utilized advanced querying, visualization, and analytics tools to analyze and process complex data sets.",
+            "Assessed accuracy and effectiveness of new and existing data sources and data analysis techniques.",
+            "Identified, measured, and recommended improvement strategies for KPIs across business areas."
+        ]
+    },
+    {
+        "title": "Project Engineer",
+        "company": "Wipro Ltd",
+        "location": "Bengaluru, India",
+        "startDate": "Nov 2018",
+        "endDate": "Feb 2021",
+        "responsibilities": [
+            "Created customized applications to make critical predictions, automate reasoning and decisions, and calculate optimization algorithms.",
+            "Prototyped machine learning applications and quickly determined application viability.",
+            "Transformed raw data to conform to assumptions of the machine learning algorithm.",
+            "Worked on Image Processing module and POCs (e.g., Face, eyes, and smile recognition using OpenCV, Object Detection through SSD, and Image Creation using Deep Convolution GANs).",
+            "Strong technical knowledge of CNN, RNN, Transformer, and other deep learning algorithms.",
+            "Built custom convolution neural network architecture as well as implemented SOTA architectures.",
+            "Able to build NLP applications (e.g., Text Classification)."
+        ]
+    },
+    {
+        "title": "Associate Machine Learning Engineer",
+        "company": "Srs Valutec Pvt. Ltd.",
+        "location": "Indore, India",
+        "startDate": "Apr 2018",
+        "endDate": "Nov 2018",
+        "responsibilities": [
+            "Designed and developed an object detection system to detect parking slots.",
+            "Transformed raw data to conform to assumptions of the machine learning algorithm.",
+            "Gathered and annotated real-time parking data and trained the model to increase accuracy by 20%.",
+            "Solved the problem of false detections in low light and night images by applying multiple data augmentation and image smoothening techniques, increasing accuracy by 5% more."
+        ]
+    }
+]
