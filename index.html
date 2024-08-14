@@ -19,6 +19,10 @@
             <li><a href="#about">About</a></li>
             <li><a href="#experience">Experience</a></li>
             <li><a href="#skills">Skills</a></li>
+            <li><a href="#github">GitHub</a></li>
+            <li><a href="#youtube">YouTube</a></li>
+            <li><a href="#medium">Medium</a></li>
+            <li><a href="#certifications">Certifications</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
         <button id="theme-toggle">
@@ -29,12 +33,19 @@
 
     <main>
         <section id="about" class="animate__animated animate__fadeIn">
-            <h2>About Me</h2>
-            <img src="images/profile.jpg" alt="Ravi Das Vaishnav" id="profile-photo">
-            <p>Innovative Lead Data Scientist with expertise in GenAI, LLMs, and MLOps. Proven track record in delivering
-high-impact AI solutions using cutting-edge technologies. Skilled in architecting scalable AI systems, prompt
-engineering, and multi-agent frameworks. Combines technical acumen with strategic thinking to transform complex
-challenges into actionable insights and innovative products</p>
+            <div class="about-content">
+                <img src="images/profile.jpg" alt="Ravi Das Vaishnav" id="profile-photo">
+                <p>
+                    I am a proactive and achievement-oriented professional offering over five years of experience in the IT industry, I specialize in cutting-edge GenAI, NLP, and Computer Vision solutions that drive technological innovation and excellence. I have led the development of advanced Gen AI solutions for Financial Services, guiding a team of data scientists to achieve groundbreaking results and garner industry recognition.
+                    I am recognized for my ability to mentor and empower junior data scientists, fostering a culture of continuous learning, creativity, and professional growth. My proficiency lies in transforming complex data challenges into actionable insights and innovative products through strategic analysis and problem-solving. I have showcased expertise in guiding cross-functional teams and successfully executing impactful AI projects in fast-paced and dynamic environments.
+
+Skilled in aligning AI initiatives with business objectives and regulatory standards, I ensure seamless integration, compliance, and enhanced operational efficiency. I have a proven track record of innovation, consistently delivering state-of-the-art AI solutions that meet evolving industry demands and set new benchmarks for success.
+                </p>
+<!--                <p>Innovative Lead Data Scientist with expertise in GenAI, LLMs, and MLOps. Proven track record in delivering-->
+<!--                    high-impact AI solutions using cutting-edge technologies. Skilled in architecting scalable AI systems, prompt-->
+<!--                    engineering, and multi-agent frameworks. Combines technical acumen with strategic thinking to transform complex-->
+<!--                    challenges into actionable insights and innovative products.</p>-->
+            </div>
         </section>
 
         <section id="experience" class="animate__animated animate__fadeIn">
@@ -46,7 +57,7 @@ challenges into actionable insights and innovative products</p>
             <h2>Skills</h2>
             <ul class="skills-list">
                 <li>Generative AI & LLMs</li>
-                <li>NLP & Computer Vision </li>
+                <li>NLP & Computer Vision</li>
                 <li>MLOps & CI/CD</li>
                 <li>Prompt Engineering</li>
                 <li>Multi-Agent Systems</li>
@@ -56,9 +67,32 @@ challenges into actionable insights and innovative products</p>
                 <li>Data Engineering</li>
                 <li>Python</li>
                 <li>SQL</li>
-                <li>TensorFlow/Pytorch</li>
-                <!-- Add more skills -->
+                <li>TensorFlow/PyTorch</li>
             </ul>
+        </section>
+
+        <section id="github" class="animate__animated animate__fadeIn">
+            <h2>GitHub Repositories</h2>
+            <div id="github-repos"></div>
+            <div class="repo-navigation">
+                <button id="prev-repos" disabled>Previous</button>
+                <button id="next-repos">Next</button>
+            </div>
+        </section>
+
+        <section id="youtube" class="animate__animated animate__fadeIn">
+            <h2>YouTube Videos</h2>
+            <div id="youtube-videos"></div>
+        </section>
+
+        <section id="medium" class="animate__animated animate__fadeIn">
+            <h2>Medium Posts</h2>
+            <div id="medium-posts"></div>
+        </section>
+
+        <section id="certifications" class="animate__animated animate__fadeIn">
+            <h2>Certifications</h2>
+            <div id="certifications-list"></div>
         </section>
 
         <section id="contact" class="animate__animated animate__fadeIn">

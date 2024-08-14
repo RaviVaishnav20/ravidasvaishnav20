@@ -1,0 +1,128 @@
+[
+    {
+        "name": "LLM -Fine tune",
+        "issuer": "Udemy",
+        "date": "2024-07",
+        "url": "https://www.udemy.com/certificate/UC-2d6a24a3-de26-4e16-9c0b-3cccc801da96/"
+    },
+    {
+        "name": "Mastering LLMs",
+        "issuer": "Analytics Vidhya",
+        "date": "2023-08",
+        "url": "https://www.credential.net/f1475814-c8c2-4ba6-8bbe-bf2c8946251b"
+    },
+    {
+        "name": "LangChain for LLM Application Development",
+        "issuer": "DeepLearning.ai",
+        "date": "2023-08",
+        "url": ""
+    },
+    {
+        "name": "ChatGPT Prompt Engineering for Developers",
+        "issuer": "DeepLearning.ai",
+        "date": "2023-07",
+        "url": ""
+    },
+    {
+        "name": "Extensive Mlops Program",
+        "issuer": "The School of AI",
+        "date": "2023-03",
+        "url": ""
+    },
+    {
+        "name": "Fundamental course in the AWS Machine Learning",
+        "issuer": "Udacity",
+        "date": "2020-07",
+        "url": "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/d5a12205-b653-430e-a1d8-822e4639ef21.pdf?utm_campaign=sch_600_auto_ndxxx_aws-ml-completed_global&utm_source=blueshift&utm_medium=email&utm_content=sch_600_auto_ndxxx_aws-ml-complet"
+    },
+    {
+        "name": "The Complete Neural Networks Bootcamp: Theory, Applications",
+        "issuer": "Udemy",
+        "date": "2020-06",
+        "url": "https://wipro.udemy.com/certificate/UC-f00c936f-3f82-485b-bcbb-6ba6acbb7e9d/"
+    },
+    {
+        "name": "Problem Solving ",
+        "issuer": "HackerRank",
+        "date": "2020-06",
+        "url": "https://www.hackerrank.com/certificates/c9cfeb2590f1"
+    },
+    {
+        "name": "Python (Basic)",
+        "issuer": "HackerRank",
+        "date": "2020-06",
+        "url": "https://www.hackerrank.com/certificates/e06662736779"
+    },
+    {
+        "name": "Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs",
+        "issuer": "Udemy",
+        "date": "2019-11",
+        "url": "https://wipro.udemy.com/certificate/UC-2HD121TW/"
+    },
+    {
+        "name": "Web Development BootCamp",
+        "issuer": "Udemy",
+        "date": "2019-10",
+        "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-XWXK081Y.jpg"
+    },
+    {
+        "name": "Google Cloud Platform Big Data and Machine Learning Fundamentals",
+        "issuer": "Coursera",
+        "date": "2019-05",
+        "url": "https://www.coursera.org/account/accomplishments/certificate/SB4BCWRMG724"
+    },
+    {
+        "name": "Google Cloud Concepts",
+        "issuer": "Udemy",
+        "date": "2019-04",
+        "url": "http://ude.my/UC-U77HM0K2"
+    },
+    {
+        "name": "GCP Essentials",
+        "issuer": "Google Cloud Platform Certified",
+        "date": "2019-04",
+        "url": ""
+    },
+    {
+        "name": "Cleaning Data in Python",
+        "issuer": "DataCamp",
+        "date": "2019-03",
+        "url": "https://www.datacamp.com/statement-of-accomplishment/course/6f7499255c984ae15f49135d7ccc9b5392ec05eb"
+    },
+    {
+        "name": "Importing Data in Python (Part 2) Course",
+        "issuer": "DataCamp",
+        "date": "2019-03",
+        "url": "https://www.datacamp.com/statement-of-accomplishment/course/5e132e8c4c62d9eac76c122fe98e9b03e66b788b"
+    },
+    {
+        "name": "Importing Data in Python (Part 1) Course",
+        "issuer": "DataCamp",
+        "date": "2019-02",
+        "url": "https://www.datacamp.com/statement-of-accomplishment/course/7ada6c581c566b9ae063a09fffa1540df0fba307"
+    },
+    {
+        "name": "Intermediate Python for Data Science Coursee",
+        "issuer": "DataCamp",
+        "date": "2019-02",
+        "url": "https://www.datacamp.com/statement-of-accomplishment/course/b93f88e36fdd84bedb18e5b1c86a4710a8e31506"
+    },
+    {
+        "name": "Python Data Science Toolbox (Part 1) Course",
+        "issuer": "DataCamp",
+        "date": "2019-02",
+        "url": "https://www.datacamp.com/statement-of-accomplishment/course/f2d6a960a1f64f1e86e217078424eef2b0d2c642"
+    },
+    {
+        "name": "Python Data Science Toolbox (Part 2) Course",
+        "issuer": "DataCamp",
+        "date": "2019-02",
+        "url": "https://www.datacamp.com/statement-of-accomplishment/course/5347bb631363318cac935ecd703923fb86154141"
+    },
+    {
+        "name": "Introduction to Python Course",
+        "issuer": "DataCamp",
+        "date": "2018-11",
+        "url": "https://www.datacamp.com/statement-of-accomplishment/course/9c2de8c937f9481f640f12b548efe48d016fa82c"
+    }
+]
